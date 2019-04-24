@@ -3,6 +3,12 @@
 [![Rangine Framework Version](https://img.shields.io/badge/rangine-%3E=0.0.1-brightgreen.svg)](https://gitee.com/we7coreteam/w7swoole)
 [![Illuminate Database Version](https://img.shields.io/badge/illuminate/database-%3E=5.6.0-brightgreen.svg)](https://github.com/illuminate/database)
 [![Rangine Doc](https://img.shields.io/badge/docs-passing-green.svg?maxAge=2592000)](https://s.we7.cc/index.php?c=wiki&do=view&id=317)
+
+# 仓库转移到团队仓库，此仓库废弃
+
+https://github.com/we7coreteam/w7swoole_empty.git
+
+
 # w7Swoole
 
 一款基于Swoole高性能应用框架。常驻内存，不依赖传统的 PHP-FPM，全异步非阻塞、协程实现。可以用于构建高性能的Web系统、API、中间件、基础服务等等。
